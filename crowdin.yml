@@ -1,5 +1,0 @@
-files:
-  - source: /EverythingToolbar/Properties/Resources.resx
-    translation: /EverythingToolbar/Properties/Resources.%two_letters_code%.resx
-  - source: /EverythingToolbar.Launcher/Properties/Resources.resx
-    translation: /EverythingToolbar.Launcher/Properties/Resources.%two_letters_code%.resx
